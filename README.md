@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ricardonun
+- <h1 center>👋 Hi, I’m Ricardo Nunes<h1>
 - 🌱 I’m currently learning JavaScript, Css and HTML
 - 📫 How to reach me riic.nun@gmail.com
 
